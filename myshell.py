@@ -193,8 +193,7 @@ def do_help(args = None):
 				# Use the clear function to clear the screen so that the help file will be 
 				# displayed more clearly
 				clear()
-				# Start at line 2 to avoid the Name and Student ID details in the readme file
-				for line in range(2, len(file)):
+				for line in range(len(file)):
 					word = file[line]
 					# Prints the headers in bold and seperates them with '-'s based on the size
 					# of the terminal
