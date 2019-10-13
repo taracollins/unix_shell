@@ -4,7 +4,7 @@ myshell.py is a simple shell that takes command line arguments. Run using Python
 
 ## SYNOPSIS
 
-__myshell.py [OPTION] [ARG] [FILE]__    
+myshell.py [OPTION] [ARG] [FILE]  
 
 ## DESCRIPTION
 myshell.py supports a collection of internal commands. If a command is entered in to the command line that is not recognised as an internal command, myshell.py will search the system utilities for the given command and run it as a child process. All arguments and parameters must be seperated by whitespace. This includes a space or a tab. myshell.py may be ran with a batchfile containing commands on the command line. Once all commands in the batchfile have been executed, myshell.py will exit
