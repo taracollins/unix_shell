@@ -1,6 +1,6 @@
 # My Shell
 
-myshell.py is a simple shell that takes command line arguments. Run using Python3. Keep readme file in the same folder as myshell.py in order to be able to display this manual in the terminal
+myshell.py is a simple shell that takes command line arguments. Run using Python3. Keep README.md in the same folder as myshell.py in order to be able to display this manual in the terminal
 
 ## SYNOPSIS
 
