@@ -1,6 +1,3 @@
-# Name: Tara Collins 
-# Student ID: 1546228
-
 import os, getpass, socket, sys, subprocess, multiprocessing, threading
 from style import colour
 
